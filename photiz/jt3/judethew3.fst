@@ -1,0 +1,106 @@
+name = judethew3
+type = body+head
+scale = 1
+filename = judethew3/judethew3.fbx
+texdir = judethew3/textures
+joint = jointLean = Spine
+joint = jointHead = Head
+joint = jointEyeRight = RightEye
+joint = jointNeck = Neck
+joint = jointRoot = Hips
+joint = jointRightHand = RightHand
+joint = jointEyeLeft = LeftEye
+joint = jointLeftHand = LeftHand
+freeJoint = LeftArm
+freeJoint = LeftForeArm
+freeJoint = RightArm
+freeJoint = RightForeArm
+jointIndex = Spine2 = 21
+jointIndex = RightToeBase = 10
+jointIndex = RightHandRing2 = 37
+jointIndex = LeftHandIndex3 = 67
+jointIndex = LeftToe_End_end = 18
+jointIndex = LeftToe_End = 17
+jointIndex = LeftHandIndex1 = 65
+jointIndex = LeftUpLeg = 13
+jointIndex = LeftHandIndex2 = 66
+jointIndex = RightHandRing3 = 38
+jointIndex = LeftHandThumb4_end = 74
+jointIndex = Neck = 80
+jointIndex = LeftFoot = 15
+jointIndex = Body = 3
+jointIndex = RightHandRing1 = 36
+jointIndex = RightHandIndex4 = 34
+jointIndex = LeftHandMiddle1 = 75
+jointIndex = LeftHandMiddle4 = 78
+jointIndex = LeftHandPinky1 = 55
+jointIndex = RightHandMiddle3 = 48
+jointIndex = LeftHandRing4_end = 64
+jointIndex = RightHandMiddle4 = 49
+jointIndex = RightHandThumb2 = 27
+jointIndex = RightToe_End = 11
+jointIndex = LeftHandIndex4_end = 69
+jointIndex = Armature = 5
+jointIndex = LeftHandMiddle3 = 77
+jointIndex = LeftHandRing4 = 63
+jointIndex = LeftHandRing3 = 62
+jointIndex = LeftHandPinky3 = 57
+jointIndex = RightForeArm = 24
+jointIndex = LeftHandPinky4_end = 59
+jointIndex = RightHandRing4_end = 40
+jointIndex = RightLeg = 8
+jointIndex = RightToe_End_end = 12
+jointIndex = LeftHandMiddle2 = 76
+jointIndex = LeftForeArm = 53
+jointIndex = RightHandIndex2 = 32
+jointIndex = RightHandRing4 = 39
+jointIndex = RightUpLeg = 7
+jointIndex = LeftArm = 52
+jointIndex = LeftEye = 82
+jointIndex = earphones = 88
+jointIndex = LeftHand = 54
+jointIndex = RightArm = 23
+jointIndex = HeadTop_End = 86
+jointIndex = RightHandThumb3 = 28
+jointIndex = LeftHandMiddle4_end = 79
+jointIndex = Cornea_Right = 2
+jointIndex = LeftToeBase = 16
+jointIndex = RightHandIndex3 = 33
+jointIndex = Head = 81
+jointIndex = RightHandThumb1 = 26
+jointIndex = Hips = 6
+jointIndex = HeadTop_End_end = 87
+jointIndex = RightHandIndex4_end = 35
+jointIndex = LeftHandThumb1 = 70
+jointIndex = RightHandIndex1 = 31
+jointIndex = Spine = 19
+jointIndex = LeftHandRing1 = 60
+jointIndex = RightHandPinky4_end = 45
+jointIndex = RightFoot = 9
+jointIndex = LeftEye_end = 83
+jointIndex = LeftHandIndex4 = 68
+jointIndex = Pants = 0
+jointIndex = RightHandPinky2 = 42
+jointIndex = LeftHandThumb3 = 72
+jointIndex = RightHandPinky4 = 44
+jointIndex = Spine1 = 20
+jointIndex = RightHandMiddle4_end = 50
+jointIndex = RightHandPinky1 = 41
+jointIndex = RightEye = 84
+jointIndex = LeftShoulder = 51
+jointIndex = RightHandMiddle1 = 46
+jointIndex = Shoes = 1
+jointIndex = LeftHandPinky4 = 58
+jointIndex = RightShoulder = 22
+jointIndex = Cornea_Left = 4
+jointIndex = RightHandMiddle2 = 47
+jointIndex = LeftHandThumb4 = 73
+jointIndex = LeftHandRing2 = 61
+jointIndex = RightHandPinky3 = 43
+jointIndex = RightHandThumb4_end = 30
+jointIndex = RightEye_end = 85
+jointIndex = LeftHandPinky2 = 56
+jointIndex = RightHand = 25
+jointIndex = LeftLeg = 14
+jointIndex = RightHandThumb4 = 29
+jointIndex = LeftHandThumb2 = 71
